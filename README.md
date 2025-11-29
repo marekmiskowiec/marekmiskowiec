@@ -1,3 +1,6 @@
+[![Stats](https://github-readme-stats-ashen-phi.vercel.app/api?username=marekmiskowiec&count_private=true&show_icons=true&disable_animations=true&theme=dark)](https://marekmiskowiec.dev)
+
+
 ## About Me
 I am a frontend developer with a passion for creating modern, responsive web applications. I specialize in **React** and **Astro**, and I love working with **Tailwind CSS** to build aesthetic and efficient user interfaces. In my spare time, I collect Hot Wheels models.
 
